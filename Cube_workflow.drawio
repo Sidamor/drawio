@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T03:07:20.779Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gU6LgMU93Cb1p2vTwFrh" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T10:12:40.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="BVMOunAHPPu_ZmJ2AXpP" version="20.1.1" type="github">
   <diagram id="HNlSHaBPxJdd0BPZfgMp" name="Page-1">
     <mxGraphModel dx="1584" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,14 +119,16 @@
           <mxGeometry x="39.5" y="755.5" width="91" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="dLRORY5KennZV_oS4DlX-79" value="" style="swimlane;startSize=0;fillColor=none;strokeWidth=2;dashed=1;" vertex="1" parent="dLRORY5KennZV_oS4DlX-15">
-          <mxGeometry x="22" y="303" width="180" height="290" as="geometry" />
+          <mxGeometry x="22" y="303" width="180" height="290" as="geometry">
+            <mxRectangle x="22" y="303" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dLRORY5KennZV_oS4DlX-80" value="产品开发&lt;br&gt;核心功能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="dLRORY5KennZV_oS4DlX-79">
           <mxGeometry x="103" y="107" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dLRORY5KennZV_oS4DlX-16" value="私有云基座" style="swimlane;startSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="dLRORY5KennZV_oS4DlX-14">
           <mxGeometry x="350" y="20" width="290" height="830" as="geometry">
-            <mxRectangle x="120" y="20" width="40" height="460" as="alternateBounds" />
+            <mxRectangle x="350" y="20" width="40" height="830" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dLRORY5KennZV_oS4DlX-97" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dLRORY5KennZV_oS4DlX-16" source="dLRORY5KennZV_oS4DlX-81" target="dLRORY5KennZV_oS4DlX-89">
@@ -247,7 +249,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dLRORY5KennZV_oS4DlX-134" value="" style="swimlane;startSize=0;fontSize=12;fontColor=#000000;strokeWidth=2;fillColor=none;dashed=1;" vertex="1" parent="dLRORY5KennZV_oS4DlX-17">
-          <mxGeometry x="20" y="536" width="174" height="224" as="geometry" />
+          <mxGeometry x="20" y="536" width="174" height="224" as="geometry">
+            <mxRectangle x="20" y="536" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dLRORY5KennZV_oS4DlX-135" value="运营平台&lt;br&gt;核心功能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="dLRORY5KennZV_oS4DlX-134">
           <mxGeometry x="104" y="61.5" width="70" height="40" as="geometry" />
