@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T10:12:40.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="BVMOunAHPPu_ZmJ2AXpP" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T02:11:49.405Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VrK2AHIAAyzDplGym45z" version="20.1.1" type="github">
   <diagram id="HNlSHaBPxJdd0BPZfgMp" name="Page-1">
-    <mxGraphModel dx="1584" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dLRORY5KennZV_oS4DlX-14" value="私有云产品开发流程" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry width="860" height="850" as="geometry">
+          <mxGeometry width="880" height="850" as="geometry">
             <mxRectangle x="50" y="30" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dLRORY5KennZV_oS4DlX-40" value="涂鸦硬件方案" style="swimlane;startSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="dLRORY5KennZV_oS4DlX-14">
-          <mxGeometry y="20" width="130" height="830" as="geometry">
+        <mxCell id="dLRORY5KennZV_oS4DlX-40" value="涂鸦硬件方案（公有云）" style="swimlane;startSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="dLRORY5KennZV_oS4DlX-14">
+          <mxGeometry y="20" width="150" height="830" as="geometry">
             <mxRectangle y="20" width="40" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -35,8 +35,8 @@
         <mxCell id="dLRORY5KennZV_oS4DlX-72" value="硬件交付物（模组、固件等）" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dLRORY5KennZV_oS4DlX-40">
           <mxGeometry x="18" y="462" width="94" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="dLRORY5KennZV_oS4DlX-15" value="产品开发平台" style="swimlane;startSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="dLRORY5KennZV_oS4DlX-14">
-          <mxGeometry x="130" y="20" width="220" height="830" as="geometry">
+        <mxCell id="dLRORY5KennZV_oS4DlX-15" value="产品开发平台（公有云）" style="swimlane;startSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="dLRORY5KennZV_oS4DlX-14">
+          <mxGeometry x="150" y="20" width="220" height="830" as="geometry">
             <mxRectangle y="20" width="40" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -126,8 +126,8 @@
         <mxCell id="dLRORY5KennZV_oS4DlX-80" value="产品开发&lt;br&gt;核心功能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="dLRORY5KennZV_oS4DlX-79">
           <mxGeometry x="103" y="107" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dLRORY5KennZV_oS4DlX-16" value="私有云基座" style="swimlane;startSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="dLRORY5KennZV_oS4DlX-14">
-          <mxGeometry x="350" y="20" width="290" height="830" as="geometry">
+        <mxCell id="dLRORY5KennZV_oS4DlX-16" value="私有云基座（私有云）" style="swimlane;startSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="dLRORY5KennZV_oS4DlX-14">
+          <mxGeometry x="370" y="20" width="290" height="830" as="geometry">
             <mxRectangle x="350" y="20" width="40" height="830" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -216,8 +216,8 @@
         <mxCell id="dLRORY5KennZV_oS4DlX-90" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="dLRORY5KennZV_oS4DlX-16" source="dLRORY5KennZV_oS4DlX-87" target="dLRORY5KennZV_oS4DlX-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dLRORY5KennZV_oS4DlX-17" value="运营平台" style="swimlane;startSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="dLRORY5KennZV_oS4DlX-14">
-          <mxGeometry x="640" y="20" width="220" height="830" as="geometry">
+        <mxCell id="dLRORY5KennZV_oS4DlX-17" value="运营平台（私有云）" style="swimlane;startSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="dLRORY5KennZV_oS4DlX-14">
+          <mxGeometry x="660" y="20" width="220" height="830" as="geometry">
             <mxRectangle x="240" y="20" width="40" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
