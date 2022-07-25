@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T03:04:56.007Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="7ofmBWMJ3wDR5ZlUy7rH" version="20.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-25T03:14:13.286Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="l3WZG3GCR5Oc-ul3OB3R" version="20.1.1" type="github" pages="2">
   <diagram id="HNlSHaBPxJdd0BPZfgMp" name="产品开发流程">
     <mxGraphModel dx="1426" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -324,89 +324,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-v76GAx0tcyLuv-3X7xV-1" target="-v76GAx0tcyLuv-3X7xV-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-v76GAx0tcyLuv-3X7xV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-1" value="app开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-v76GAx0tcyLuv-3X7xV-2" target="-v76GAx0tcyLuv-3X7xV-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-2" value="私有云标准App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-v76GAx0tcyLuv-3X7xV-6" target="-v76GAx0tcyLuv-3X7xV-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-6" value="SDK开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-v76GAx0tcyLuv-3X7xV-7" target="-v76GAx0tcyLuv-3X7xV-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-7" value="App包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-v76GAx0tcyLuv-3X7xV-11" target="-v76GAx0tcyLuv-3X7xV-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.31;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="-v76GAx0tcyLuv-3X7xV-11" target="-v76GAx0tcyLuv-3X7xV-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-11" value="创建AppId" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-13" value="导入App信息&lt;br&gt;到私有云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-v76GAx0tcyLuv-3X7xV-15" target="-v76GAx0tcyLuv-3X7xV-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-15" value="运营平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-v76GAx0tcyLuv-3X7xV-16" target="-v76GAx0tcyLuv-3X7xV-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-16" value="隐私协议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-v76GAx0tcyLuv-3X7xV-18" target="-v76GAx0tcyLuv-3X7xV-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-18" value="选择App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-v76GAx0tcyLuv-3X7xV-20" target="-v76GAx0tcyLuv-3X7xV-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-20" value="选择协议类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-v76GAx0tcyLuv-3X7xV-22" target="-v76GAx0tcyLuv-3X7xV-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="-v76GAx0tcyLuv-3X7xV-22" target="-v76GAx0tcyLuv-3X7xV-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-22" value="富文本编辑协议内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-24" value="生成协议html&lt;br&gt;（符合绑定关系）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-26" value="如何创建AppId" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="290" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-v76GAx0tcyLuv-3X7xV-28" value="是否默认提供&lt;br&gt;协议模版" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1437" y="380" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="0RyXw4EqZn83zvCBtr9Y-1" value="私有云App流程（不含三方App SDK开发）" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="700" height="520" as="geometry" />
         </mxCell>
@@ -434,7 +351,7 @@
         <mxCell id="qfLBhxG9XiURq6pX1rCJ-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="0RyXw4EqZn83zvCBtr9Y-2" source="b3O5DJGmtJR6ZWRKCpZi-1" target="qfLBhxG9XiURq6pX1rCJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qfLBhxG9XiURq6pX1rCJ-4" value="配置App详情&lt;br&gt;隐私政策、用户协议等" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="0RyXw4EqZn83zvCBtr9Y-2">
+        <mxCell id="qfLBhxG9XiURq6pX1rCJ-4" value="配置App详情&lt;br&gt;（隐私政策、用户协议等）" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="0RyXw4EqZn83zvCBtr9Y-2">
           <mxGeometry x="35" y="270" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qfLBhxG9XiURq6pX1rCJ-5" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="0RyXw4EqZn83zvCBtr9Y-2" source="qfLBhxG9XiURq6pX1rCJ-1" target="qfLBhxG9XiURq6pX1rCJ-4">
