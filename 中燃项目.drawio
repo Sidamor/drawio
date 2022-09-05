@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T01:42:34.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="aafeotaRc3lYiasnzBo2" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T01:42:50.502Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="mQE-qc9VLv5eI1WaC9zN" version="20.2.7" type="github">
   <diagram id="4pMfo4Tj7jwU8pwmVwXa" name="第 1 页">
     <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
         <mxCell id="jnLLRgTsQGQw54i5Eg0a-59" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="jnLLRgTsQGQw54i5Eg0a-36" source="jnLLRgTsQGQw54i5Eg0a-57" target="jnLLRgTsQGQw54i5Eg0a-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jnLLRgTsQGQw54i5Eg0a-60" value="运营平台" style="swimlane;startSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="jnLLRgTsQGQw54i5Eg0a-1">
+        <mxCell id="jnLLRgTsQGQw54i5Eg0a-60" value="平台运营" style="swimlane;startSize=20;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="jnLLRgTsQGQw54i5Eg0a-1">
           <mxGeometry x="510" y="20" width="220" height="830" as="geometry">
             <mxRectangle x="240" y="20" width="40" height="460" as="alternateBounds" />
           </mxGeometry>
@@ -198,7 +198,7 @@
         <mxCell id="jnLLRgTsQGQw54i5Eg0a-61" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;fontColor=#D4B455;" edge="1" parent="jnLLRgTsQGQw54i5Eg0a-60" source="jnLLRgTsQGQw54i5Eg0a-62" target="jnLLRgTsQGQw54i5Eg0a-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jnLLRgTsQGQw54i5Eg0a-62" value="账号登入" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;" vertex="1" parent="jnLLRgTsQGQw54i5Eg0a-60">
+        <mxCell id="jnLLRgTsQGQw54i5Eg0a-62" value="平台运营&lt;br&gt;账号登入" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;" vertex="1" parent="jnLLRgTsQGQw54i5Eg0a-60">
           <mxGeometry x="44" y="40.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jnLLRgTsQGQw54i5Eg0a-63" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;选择功能&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jnLLRgTsQGQw54i5Eg0a-60">
