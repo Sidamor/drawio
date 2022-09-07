@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T07:09:09.594Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Y_n7apjQ-aO6lTwIMN7c" version="20.2.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-07T07:21:11.401Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="YiLM_jRoypiWAf2msyd6" version="20.2.8" type="github" pages="4">
   <diagram id="HNlSHaBPxJdd0BPZfgMp" name="产品开发流程">
     <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -476,7 +476,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="P7YENpOBhqsFbttAU2JI-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="804" y="30" width="387" height="500" as="geometry" />
+          <mxGeometry x="860" y="30" width="387" height="500" as="geometry" />
         </mxCell>
         <mxCell id="P7YENpOBhqsFbttAU2JI-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-17">
           <mxGeometry x="107" width="280" height="500" as="geometry" />
@@ -523,7 +523,7 @@
         <mxCell id="9_Izu1RjJ6uZWY2-5w7U-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="P7YENpOBhqsFbttAU2JI-23" source="9_Izu1RjJ6uZWY2-5w7U-1" target="9_Izu1RjJ6uZWY2-5w7U-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-1" value="登陆云测账号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;arcSize=50;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-23">
+        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-1" value="登陆云测账号&lt;br&gt;（工厂）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;arcSize=50;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-23">
           <mxGeometry x="35" y="46" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9_Izu1RjJ6uZWY2-5w7U-2" value="选择要测试的设备" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-23">
@@ -624,6 +624,9 @@
           <mxGeometry x="0.0049" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-P6dzDrOIYL2MufnIDiQ-4" value="&lt;span style=&quot;&quot;&gt;1.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;同步云测App账号到运营平台账号，统一运营平台、云测App工厂账号&lt;br&gt;&lt;br&gt;2. 公有云维护每个私有云信息（域名等），只需要维护单个云测App&lt;br&gt;&lt;br&gt;3. 客户在运营平台上提出出货需求，工厂收到需求后进行测试（暂未规划）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="630" y="50" width="180" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
