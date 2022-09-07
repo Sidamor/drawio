@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T07:08:49.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="XqxmQEih8I9n3cHacvQb" version="20.2.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-07T07:09:09.594Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Y_n7apjQ-aO6lTwIMN7c" version="20.2.8" type="github" pages="4">
   <diagram id="HNlSHaBPxJdd0BPZfgMp" name="产品开发流程">
     <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -523,7 +523,7 @@
         <mxCell id="9_Izu1RjJ6uZWY2-5w7U-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="P7YENpOBhqsFbttAU2JI-23" source="9_Izu1RjJ6uZWY2-5w7U-1" target="9_Izu1RjJ6uZWY2-5w7U-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-1" value="登陆云测账号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-23">
+        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-1" value="登陆云测账号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;arcSize=50;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-23">
           <mxGeometry x="35" y="46" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9_Izu1RjJ6uZWY2-5w7U-2" value="选择要测试的设备" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-23">
@@ -571,7 +571,7 @@
         <mxCell id="9_Izu1RjJ6uZWY2-5w7U-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" parent="P7YENpOBhqsFbttAU2JI-25" source="9_Izu1RjJ6uZWY2-5w7U-19" target="9_Izu1RjJ6uZWY2-5w7U-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-19" value="登陆运营平台&lt;br&gt;（管理员）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-25">
+        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-19" value="登陆运营平台&lt;br&gt;（管理员）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;arcSize=50;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-25">
           <mxGeometry x="35" y="246" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9_Izu1RjJ6uZWY2-5w7U-21" value="人工审批" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-25">
@@ -582,7 +582,7 @@
             <mxPoint x="95" y="423" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qeqWG41UKp38-swAtisz-1" value="登陆运营平台&lt;br&gt;（工厂）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-25">
+        <mxCell id="qeqWG41UKp38-swAtisz-1" value="登陆运营平台&lt;br&gt;（工厂）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;arcSize=50;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-25">
           <mxGeometry x="30" y="46" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qeqWG41UKp38-swAtisz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="P7YENpOBhqsFbttAU2JI-25" source="qeqWG41UKp38-swAtisz-3" target="9_Izu1RjJ6uZWY2-5w7U-17">
