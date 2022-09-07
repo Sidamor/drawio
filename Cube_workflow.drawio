@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T06:56:57.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="oX4b5azV8-hpi1QJv8oR" version="20.2.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-07T06:59:46.689Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="PaGU0uHNk__8STH6SYhX" version="20.2.8" type="github" pages="4">
   <diagram id="HNlSHaBPxJdd0BPZfgMp" name="产品开发流程">
     <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -514,7 +514,7 @@
         <mxCell id="P7YENpOBhqsFbttAU2JI-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="P7YENpOBhqsFbttAU2JI-17" source="P7YENpOBhqsFbttAU2JI-2" target="P7YENpOBhqsFbttAU2JI-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P7YENpOBhqsFbttAU2JI-22" value="私有云出货流程（部署后）" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
+        <mxCell id="P7YENpOBhqsFbttAU2JI-22" value="私有云设备测试流程（部署后）" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="30" y="24" width="570" height="726" as="geometry" />
         </mxCell>
         <mxCell id="P7YENpOBhqsFbttAU2JI-23" value="云测App" style="swimlane;startSize=20;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-22">
@@ -553,7 +553,7 @@
         <mxCell id="9_Izu1RjJ6uZWY2-5w7U-15" value="生成测试报告&lt;br&gt;（云测后台）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-24">
           <mxGeometry x="35" y="356" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-25" value="云测后台检测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-24">
+        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-25" value="云测后台识别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-24">
           <mxGeometry x="40" y="453" width="110" height="54" as="geometry" />
         </mxCell>
         <mxCell id="9_Izu1RjJ6uZWY2-5w7U-32" value="同步产品信息&lt;br&gt;（私有云发起）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-24">
