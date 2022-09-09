@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T06:46:58.459Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="rksfdbwiDvPv1W0lD0K9" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-09T08:05:07.452Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="xDiY2rWZN6L3ka6Mc_yS" version="20.3.0" type="github" pages="4">
   <diagram id="HNlSHaBPxJdd0BPZfgMp" name="产品开发流程">
     <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -533,7 +533,7 @@
           <mxGeometry x="35" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9_Izu1RjJ6uZWY2-5w7U-2" value="选择要测试的设备" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" parent="P7YENpOBhqsFbttAU2JI-23" vertex="1">
-          <mxGeometry x="35" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="35" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9_Izu1RjJ6uZWY2-5w7U-7" value="按提示测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" parent="P7YENpOBhqsFbttAU2JI-23" vertex="1">
           <mxGeometry x="35" y="312" width="120" height="60" as="geometry" />
@@ -544,10 +544,10 @@
         <mxCell id="P7YENpOBhqsFbttAU2JI-24" value="私有云" style="swimlane;startSize=20;" parent="P7YENpOBhqsFbttAU2JI-22" vertex="1">
           <mxGeometry x="190" y="20" width="190" height="810" as="geometry" />
         </mxCell>
-        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-4" value="获取测试用例&lt;br&gt;（云测后台）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" parent="P7YENpOBhqsFbttAU2JI-24" vertex="1">
+        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-4" value="获取测试用例&lt;br&gt;（云测后台）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="P7YENpOBhqsFbttAU2JI-24" vertex="1">
           <mxGeometry x="35" y="202" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-10" value="App&amp;amp;云&amp;amp;设备交互" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" parent="P7YENpOBhqsFbttAU2JI-24" vertex="1">
+        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-10" value="App&amp;amp;云&amp;amp;设备交互" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="P7YENpOBhqsFbttAU2JI-24" vertex="1">
           <mxGeometry x="35" y="312" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9_Izu1RjJ6uZWY2-5w7U-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="P7YENpOBhqsFbttAU2JI-24" source="9_Izu1RjJ6uZWY2-5w7U-15" target="9_Izu1RjJ6uZWY2-5w7U-25" edge="1">
@@ -556,14 +556,17 @@
             <mxPoint x="95" y="539" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-15" value="生成测试报告&lt;br&gt;（云测后台）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" parent="P7YENpOBhqsFbttAU2JI-24" vertex="1">
+        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-15" value="生成测试报告&lt;br&gt;（云测后台）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="P7YENpOBhqsFbttAU2JI-24" vertex="1">
           <mxGeometry x="35" y="422" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-25" value="云测后台识别" style="rhombus;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" parent="P7YENpOBhqsFbttAU2JI-24" vertex="1">
+        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-25" value="云测后台识别" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="P7YENpOBhqsFbttAU2JI-24" vertex="1">
           <mxGeometry x="40" y="519" width="110" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-36" value="产品入库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" parent="P7YENpOBhqsFbttAU2JI-24" vertex="1">
+        <mxCell id="9_Izu1RjJ6uZWY2-5w7U-36" value="产品入库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="P7YENpOBhqsFbttAU2JI-24" vertex="1">
           <mxGeometry x="35" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-26" value="待测试产品库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="P7YENpOBhqsFbttAU2JI-24">
+          <mxGeometry x="35" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P7YENpOBhqsFbttAU2JI-25" value="运营平台（出货管理）" style="swimlane;startSize=20;" parent="P7YENpOBhqsFbttAU2JI-22" vertex="1">
           <mxGeometry x="380" y="20" width="210" height="810" as="geometry" />
@@ -684,13 +687,11 @@
         <mxCell id="9_Izu1RjJ6uZWY2-5w7U-37" value="通过" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="P7YENpOBhqsFbttAU2JI-22" source="9_Izu1RjJ6uZWY2-5w7U-25" target="tmifSZkEjL4JDMdcuQY9-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tmifSZkEjL4JDMdcuQY9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="P7YENpOBhqsFbttAU2JI-22" source="-P6dzDrOIYL2MufnIDiQ-29" target="9_Izu1RjJ6uZWY2-5w7U-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="310" />
-              <mxPoint x="400" y="180" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="P7YENpOBhqsFbttAU2JI-22" source="-P6dzDrOIYL2MufnIDiQ-29" target="tmifSZkEjL4JDMdcuQY9-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="P7YENpOBhqsFbttAU2JI-22" source="tmifSZkEjL4JDMdcuQY9-26" target="9_Izu1RjJ6uZWY2-5w7U-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-P6dzDrOIYL2MufnIDiQ-4" value="&lt;span style=&quot;&quot;&gt;1.1 云测App测试过程中，允许自动同步产品信息；&lt;br&gt;1.2 客户App使用过程中，不允许自动同步产品信息：私有云产品库没有的设备不允许接入，并返回相应提示&lt;br&gt;&lt;br&gt;2. 公有云维护每个私有云信息（域名等），只需要维护单个云测App&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="10" y="880" width="800" height="110" as="geometry" />
