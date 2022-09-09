@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T08:05:07.452Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="xDiY2rWZN6L3ka6Mc_yS" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-09T09:37:50.077Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Oja6ul2DMgkfykD2_sot" version="20.3.0" type="github" pages="4">
   <diagram id="HNlSHaBPxJdd0BPZfgMp" name="产品开发流程">
     <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -471,10 +471,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fv98uhYI87qyeSiRD8Z6" name="出货流程">
-    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="50" width="386.5" height="800" as="geometry" />
+        </mxCell>
         <mxCell id="P7YENpOBhqsFbttAU2JI-17" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="870" y="50" width="387" height="500" as="geometry" />
         </mxCell>
@@ -695,6 +698,69 @@
         </mxCell>
         <mxCell id="-P6dzDrOIYL2MufnIDiQ-4" value="&lt;span style=&quot;&quot;&gt;1.1 云测App测试过程中，允许自动同步产品信息；&lt;br&gt;1.2 客户App使用过程中，不允许自动同步产品信息：私有云产品库没有的设备不允许接入，并返回相应提示&lt;br&gt;&lt;br&gt;2. 公有云维护每个私有云信息（域名等），只需要维护单个云测App&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="10" y="880" width="800" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-30" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1374" y="539" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tmifSZkEjL4JDMdcuQY9-31" target="tmifSZkEjL4JDMdcuQY9-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tmifSZkEjL4JDMdcuQY9-31" target="tmifSZkEjL4JDMdcuQY9-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1465.5" y="79" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-32" value="报告状态图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tmifSZkEjL4JDMdcuQY9-36" target="tmifSZkEjL4JDMdcuQY9-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-36" value="云测生成报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1515.5" y="189" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tmifSZkEjL4JDMdcuQY9-38" target="tmifSZkEjL4JDMdcuQY9-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-38" value="手动上传报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1329" y="189" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tmifSZkEjL4JDMdcuQY9-49" target="tmifSZkEjL4JDMdcuQY9-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tmifSZkEjL4JDMdcuQY9-49" target="tmifSZkEjL4JDMdcuQY9-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-49" value="云测自动识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1419" y="319" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tmifSZkEjL4JDMdcuQY9-51" target="tmifSZkEjL4JDMdcuQY9-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-51" value="识别通过" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1329" y="449" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tmifSZkEjL4JDMdcuQY9-53" target="tmifSZkEjL4JDMdcuQY9-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-53" value="识别不通过" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1515.5" y="449" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tmifSZkEjL4JDMdcuQY9-58" target="tmifSZkEjL4JDMdcuQY9-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-58" value="提交人工审核" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1515.5" y="559" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tmifSZkEjL4JDMdcuQY9-60" target="tmifSZkEjL4JDMdcuQY9-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-60" value="同步审核状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1515.5" y="669" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tmifSZkEjL4JDMdcuQY9-62" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1560.5" y="769" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
