@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T09:37:50.077Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Oja6ul2DMgkfykD2_sot" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-13T01:39:35.522Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="rUgvNKwzCyKNnBNYHU9f" version="20.3.0" type="github" pages="4">
   <diagram id="HNlSHaBPxJdd0BPZfgMp" name="产品开发流程">
     <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -471,7 +471,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fv98uhYI87qyeSiRD8Z6" name="出货流程">
-    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -597,7 +597,7 @@
         <mxCell id="-P6dzDrOIYL2MufnIDiQ-46" value="提交测试报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="P7YENpOBhqsFbttAU2JI-25" vertex="1">
           <mxGeometry x="44" y="515.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-P6dzDrOIYL2MufnIDiQ-60" value="同步产品信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="P7YENpOBhqsFbttAU2JI-25" vertex="1">
+        <mxCell id="-P6dzDrOIYL2MufnIDiQ-60" value="同步产品信息&lt;br&gt;（产品管理）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="P7YENpOBhqsFbttAU2JI-25" vertex="1">
           <mxGeometry x="44" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tmifSZkEjL4JDMdcuQY9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="P7YENpOBhqsFbttAU2JI-25" source="tmifSZkEjL4JDMdcuQY9-8" target="-P6dzDrOIYL2MufnIDiQ-60">
