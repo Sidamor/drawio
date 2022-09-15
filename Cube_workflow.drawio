@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T03:06:17.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="roNlOHlbeD4p6BH_Xbb-" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-15T03:06:35.580Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ty3Jkitc_ytpq9CC4ZaC" version="20.3.0" type="github" pages="4">
   <diagram id="HNlSHaBPxJdd0BPZfgMp" name="产品开发流程">
     <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -697,7 +697,7 @@
         <mxCell id="8v0Fx7lNhMF3bR4v6guS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="P7YENpOBhqsFbttAU2JI-22" source="-P6dzDrOIYL2MufnIDiQ-60" target="8v0Fx7lNhMF3bR4v6guS-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-P6dzDrOIYL2MufnIDiQ-4" value="&lt;span style=&quot;&quot;&gt;1.1 云测App测试过程中，允许自动同步产品信息；&lt;br&gt;1.2 客户App使用过程中，不允许自动同步产品信息：私有云产品库没有的设备不允许接入，并返回相应提示&lt;br&gt;&lt;br&gt;2. 公有云维护每个私有云信息（域名等），只需要维护单个云测App&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="1" vertex="1">
+        <mxCell id="-P6dzDrOIYL2MufnIDiQ-4" value="&lt;span style=&quot;&quot;&gt;1.1 云测App测试过程中，允许自动同步产品信息；&lt;br&gt;1.2 客户App使用过程中，不允许自动同步产品信息；&lt;br&gt;1.3 私有云产品库没有的设备不允许接入，并返回相应提示&lt;br&gt;&lt;br&gt;2. 公有云维护每个私有云信息（域名等），只需要维护单个云测App&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="10" y="880" width="800" height="110" as="geometry" />
         </mxCell>
         <mxCell id="tmifSZkEjL4JDMdcuQY9-30" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
