@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-08T02:12:54.009Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="2olhnsewKpqS3mIIWNc6" version="20.3.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-08T02:14:07.706Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="4j6tBmKRIg5lWrvR6xp5" version="20.3.7" type="github" pages="5">
   <diagram id="HNlSHaBPxJdd0BPZfgMp" name="产品开发流程">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -967,7 +967,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1hnx835u4uSeqRYg1Wxo-24" value="同步产品状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1hnx835u4uSeqRYg1Wxo-0">
-          <mxGeometry x="45" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="45" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1hnx835u4uSeqRYg1Wxo-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1hnx835u4uSeqRYg1Wxo-0" source="1hnx835u4uSeqRYg1Wxo-2" target="1hnx835u4uSeqRYg1Wxo-24">
           <mxGeometry relative="1" as="geometry" />
@@ -976,10 +976,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1hnx835u4uSeqRYg1Wxo-29" value="上传测试报告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1hnx835u4uSeqRYg1Wxo-0">
-          <mxGeometry x="45" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="45" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1hnx835u4uSeqRYg1Wxo-31" value="记录产品状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1hnx835u4uSeqRYg1Wxo-0">
-          <mxGeometry x="45" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="45" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ywsoE22bY5bgFWOTqNn-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2ywsoE22bY5bgFWOTqNn-18" source="2ywsoE22bY5bgFWOTqNn-26" target="2ywsoE22bY5bgFWOTqNn-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1022,7 +1022,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="810" y="720" />
-              <mxPoint x="810" y="280" />
+              <mxPoint x="810" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1041,9 +1041,12 @@
             <Array as="points">
               <mxPoint x="95" y="770" />
               <mxPoint x="830" y="770" />
-              <mxPoint x="830" y="380" />
+              <mxPoint x="830" y="360" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1hnx835u4uSeqRYg1Wxo-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2ywsoE22bY5bgFWOTqNn-18" source="1hnx835u4uSeqRYg1Wxo-42" target="1hnx835u4uSeqRYg1Wxo-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2ywsoE22bY5bgFWOTqNn-64" value="&lt;span style=&quot;&quot;&gt;1. 云测App测试过程中，不允许自动同步产品信息；只能选择完成预配置的产品；&lt;br&gt;2. 完成预配置的产品，可以在运营平台中看到；&lt;br&gt;3. 运营平台-产品管理中，新增状态列：未测试、测试通过、测试不通过；&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="2ywsoE22bY5bgFWOTqNn-1" vertex="1">
           <mxGeometry x="10" y="880" width="800" height="110" as="geometry" />
