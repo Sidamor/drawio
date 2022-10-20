@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T06:23:58.537Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="KpmoBToSvVI5woVHwlei" version="20.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-20T01:39:05.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="RX8WM4DOGozrXpXw2efJ" version="20.4.0" type="github" pages="5">
   <diagram id="HNlSHaBPxJdd0BPZfgMp" name="产品开发流程">
     <mxGraphModel dx="2102" dy="1436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -470,7 +470,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="fv98uhYI87qyeSiRD8Z6" name="出货流程">
+  <diagram id="fv98uhYI87qyeSiRD8Z6" name="设备准入">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -757,8 +757,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="出货流程V2.0" id="hasBADpZrPg2dEJdt3mu">
-    <mxGraphModel dx="1577" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="设备准入V2.0" id="hasBADpZrPg2dEJdt3mu">
+    <mxGraphModel dx="1783" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="2ywsoE22bY5bgFWOTqNn-0" />
         <mxCell id="2ywsoE22bY5bgFWOTqNn-1" parent="2ywsoE22bY5bgFWOTqNn-0" />
