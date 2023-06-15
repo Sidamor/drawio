@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T02:11:12.451Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6rUmWpsFf4Ct1Yq2AdQj" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T09:13:25.530Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="q3ixeJ237wtVmP4KHVOn" version="21.3.6" type="github">
   <diagram name="Roadmap" id="4Ab8lqRVW2OiMOKWnX5B">
     <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-1" value="IoT 核心基座" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="840" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-2" value="OS 接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-3" value="边缘网关接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="184" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-4" value="云云对接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-5" value="matter 接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-6" value="Cat 1 / Cat 4 接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-7" value="NB IoT 接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="616" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-8" value="电工照明" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="120" width="62" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-9" value="传感设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-10" value="大小&amp;amp;厨房家电" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="96" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-11" value="大数据服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-12" value="流媒体服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-13" value="网关设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="120" width="66" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-14" value="中控屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-15" value="IPC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432" y="120" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-16" value="红外遥控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-17" value="智能门锁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-18" value="扫地机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627" y="120" width="48" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-19" value="健康设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="682" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-20" value="户外设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="751" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-21" value="能源品类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
