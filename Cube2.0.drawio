@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T10:15:24.210Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OMHVzgufhenzdzjTcpjR" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T10:17:19.489Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0sEcl0GfZLpzY8m2vwmN" version="21.3.6" type="github">
   <diagram name="Roadmap" id="4Ab8lqRVW2OiMOKWnX5B">
     <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="Jw8Qhkp8rssELlsGVoCv-30" value="备注：该图仅介绍了 Cube 云端架构内容，硬件相关内容并未展现" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="20" y="660" width="870" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jw8Qhkp8rssELlsGVoCv-31" value="开放平台" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-31" value="开放能力" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="185" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jw8Qhkp8rssELlsGVoCv-32" value="可视化应用" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -106,7 +106,7 @@
         <mxCell id="Jw8Qhkp8rssELlsGVoCv-36" value="运维平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jw8Qhkp8rssELlsGVoCv-37" value="Open API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-37" value="API网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="118" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jw8Qhkp8rssELlsGVoCv-38" value="消息网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
