@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T10:18:01.207Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kVkBfZHeMocT7Nd8Ub9Y" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T10:20:14.577Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MnL9zWiQJjM-_hK0NK14" version="21.3.6" type="github">
   <diagram name="Roadmap" id="4Ab8lqRVW2OiMOKWnX5B">
     <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="260" y="255" width="96" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jw8Qhkp8rssELlsGVoCv-11" value="大数据服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="552" y="335" width="120" height="60" as="geometry" />
+          <mxGeometry x="696" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jw8Qhkp8rssELlsGVoCv-12" value="流媒体服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="264" y="335" width="120" height="60" as="geometry" />
@@ -68,16 +68,16 @@
           <mxGeometry x="900" y="255" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jw8Qhkp8rssELlsGVoCv-22" value="知识库/帮助中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="696" y="335" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jw8Qhkp8rssELlsGVoCv-23" value="语音服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="408" y="335" width="120" height="60" as="geometry" />
+          <mxGeometry x="552" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jw8Qhkp8rssELlsGVoCv-24" value="App 服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="335" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jw8Qhkp8rssELlsGVoCv-25" value="中间件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="335" width="120" height="60" as="geometry" />
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-25" value="增值服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="408" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jw8Qhkp8rssELlsGVoCv-27" value="接入方式" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="540" width="60" height="30" as="geometry" />
@@ -88,7 +88,7 @@
         <mxCell id="Jw8Qhkp8rssELlsGVoCv-29" value="垂直品类" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jw8Qhkp8rssELlsGVoCv-30" value="备注：该图仅介绍了 Cube 云端架构内容，硬件相关内容并未展现" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-30" value="备注：该图仅介绍了 Cube 云端相关内容，硬件相关内容并未展现" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="20" y="660" width="870" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jw8Qhkp8rssELlsGVoCv-31" value="开放能力" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
