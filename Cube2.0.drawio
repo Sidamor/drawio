@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T01:20:00.485Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DNwR77NM4MTujPjufRYB" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T01:22:02.537Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2-Q64E14m7-sd-43_8LW" version="21.3.6" type="github">
   <diagram name="Roadmap" id="4Ab8lqRVW2OiMOKWnX5B">
     <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,23 +79,23 @@
         <mxCell id="Jw8Qhkp8rssELlsGVoCv-25" value="增值服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="408" y="335" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jw8Qhkp8rssELlsGVoCv-27" value="接入方式" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="540" width="60" height="30" as="geometry" />
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-27" value="接入方式" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jw8Qhkp8rssELlsGVoCv-28" value="支撑服务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="350" width="60" height="30" as="geometry" />
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-28" value="支撑服务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jw8Qhkp8rssELlsGVoCv-29" value="垂直品类" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="270" width="60" height="30" as="geometry" />
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-29" value="垂直品类" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jw8Qhkp8rssELlsGVoCv-30" value="备注：该图仅介绍了 Cube 云端相关内容，硬件相关内容并未展现" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="20" y="620" width="870" height="30" as="geometry" />
+          <mxGeometry x="25" y="620" width="870" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jw8Qhkp8rssELlsGVoCv-31" value="开放能力" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="185" width="60" height="30" as="geometry" />
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-31" value="开放能力" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="185" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jw8Qhkp8rssELlsGVoCv-32" value="可视化应用" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="15" y="90" width="70" height="30" as="geometry" />
+        <mxCell id="Jw8Qhkp8rssELlsGVoCv-32" value="可视化应用" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="25" y="90" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jw8Qhkp8rssELlsGVoCv-34" value="Cube App" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="118" y="75" width="120" height="60" as="geometry" />
