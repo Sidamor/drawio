@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2023-10-13T08:39:02.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="R71nXAg5A81JdnwMadk0" version="21.7.2" type="github">
+  <diagram name="第 1 页" id="i99Y6WtIKTLCs5u1Epov">
+    <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lY8eCmT-5-J23zFgwTHB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lY8eCmT-5-J23zFgwTHB-1" target="lY8eCmT-5-J23zFgwTHB-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lY8eCmT-5-J23zFgwTHB-1" value="App/中控屏&lt;br&gt;手动触发" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lY8eCmT-5-J23zFgwTHB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lY8eCmT-5-J23zFgwTHB-2" target="lY8eCmT-5-J23zFgwTHB-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lY8eCmT-5-J23zFgwTHB-2" value="App 上传日志&lt;br&gt;（并通知云端日志信息）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lY8eCmT-5-J23zFgwTHB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lY8eCmT-5-J23zFgwTHB-4" target="lY8eCmT-5-J23zFgwTHB-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lY8eCmT-5-J23zFgwTHB-4" value="云端保存日志信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lY8eCmT-5-J23zFgwTHB-6" value="运营平台查看日志" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
