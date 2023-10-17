@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T01:00:29.721Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="bx84rxrzk81qPXV7cfu9" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-17T01:01:00.646Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="lexOwSG5b8H7MNhRX_9I" version="22.0.4" type="github" pages="2">
   <diagram name="腾讯：宝安政府项目" id="i99Y6WtIKTLCs5u1Epov">
     <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="BA-UTT4j09qQxsYutWsc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BA-UTT4j09qQxsYutWsc-2" target="BA-UTT4j09qQxsYutWsc-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BA-UTT4j09qQxsYutWsc-2" value="Tuya IoT 平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BA-UTT4j09qQxsYutWsc-2" value="Tuya IoT 平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="20" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BA-UTT4j09qQxsYutWsc-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="BA-UTT4j09qQxsYutWsc-11" edge="1">
@@ -28,13 +28,13 @@
         <mxCell id="BA-UTT4j09qQxsYutWsc-6" value="产品开发" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BA-UTT4j09qQxsYutWsc-8" value="Tuya Cube" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BA-UTT4j09qQxsYutWsc-8" value="Tuya Cube" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="670" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BA-UTT4j09qQxsYutWsc-9" value="腾讯企点" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BA-UTT4j09qQxsYutWsc-9" value="腾讯企点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="670" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BA-UTT4j09qQxsYutWsc-10" value="Tuya Expo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BA-UTT4j09qQxsYutWsc-10" value="Tuya Expo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="20" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BA-UTT4j09qQxsYutWsc-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" target="BA-UTT4j09qQxsYutWsc-11" edge="1">
@@ -43,7 +43,7 @@
             <mxPoint x="380" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BA-UTT4j09qQxsYutWsc-11" value="统一入口" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BA-UTT4j09qQxsYutWsc-11" value="统一入口" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="320" y="80" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
