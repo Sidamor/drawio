@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T06:48:59.838Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="le_O3B2_mOph7Yzxnl2_" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T06:50:22.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="QzM_sGJTJ_F7IxD1vs--" version="24.2.5" type="github">
   <diagram name="App反馈" id="TMPq3hwwEe10xDDGeOZI">
     <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
             <mxPoint x="300" y="474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C3AoypvgDBoXkWNjjZ7i-37" value="用户 - 提交反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3AoypvgDBoXkWNjjZ7i-22">
+        <mxCell id="C3AoypvgDBoXkWNjjZ7i-37" value="用户 - 新建反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3AoypvgDBoXkWNjjZ7i-22">
           <mxGeometry x="-0.3664" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -161,7 +161,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C3AoypvgDBoXkWNjjZ7i-52" value="用户反馈&lt;div&gt;客服回复&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3AoypvgDBoXkWNjjZ7i-51">
+        <mxCell id="C3AoypvgDBoXkWNjjZ7i-52" value="&lt;div&gt;继续提问&lt;/div&gt;&lt;div&gt;客服回复&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3AoypvgDBoXkWNjjZ7i-51">
           <mxGeometry x="-0.2" relative="1" as="geometry">
             <mxPoint x="-15" y="20" as="offset" />
           </mxGeometry>
