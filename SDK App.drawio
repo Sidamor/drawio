@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T02:47:24.448Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.13" etag="fkz-m9UGFJvBCsVoInQI" type="github">
-  <diagram name="第 1 页" id="GKP_1afsvZRX7d36DQRf">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-06-11T03:04:37.026Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="lYYVDK3NrUXVI2oYZCxw" version="24.4.13" type="github">
+  <diagram name="多 SDK 套餐" id="GKP_1afsvZRX7d36DQRf">
+    <mxGraphModel dx="900" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="500" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-3" value="增值服务" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="H1jCAznNCiDQPqvQXg3_-2">
+          <mxGeometry width="500" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-11" value="购买套餐" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H1jCAznNCiDQPqvQXg3_-3">
+          <mxGeometry x="50" y="20" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-8" value="SDK 创建" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="H1jCAznNCiDQPqvQXg3_-2">
+          <mxGeometry y="100" width="500" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H1jCAznNCiDQPqvQXg3_-8" source="H1jCAznNCiDQPqvQXg3_-12" target="H1jCAznNCiDQPqvQXg3_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-12" value="创建新类型 SDK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H1jCAznNCiDQPqvQXg3_-8">
+          <mxGeometry x="50" y="20" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H1jCAznNCiDQPqvQXg3_-8" source="H1jCAznNCiDQPqvQXg3_-13" target="H1jCAznNCiDQPqvQXg3_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-13" value="选择购买的&lt;div&gt;套餐&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H1jCAznNCiDQPqvQXg3_-8">
+          <mxGeometry x="160" y="20" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-15" value="套餐抵扣" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H1jCAznNCiDQPqvQXg3_-8">
+          <mxGeometry x="270" y="20" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-9" value="SDK 开发" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="H1jCAznNCiDQPqvQXg3_-2">
+          <mxGeometry y="200" width="500" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H1jCAznNCiDQPqvQXg3_-9" source="H1jCAznNCiDQPqvQXg3_-17" target="H1jCAznNCiDQPqvQXg3_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-17" value="用户注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H1jCAznNCiDQPqvQXg3_-9">
+          <mxGeometry x="50" y="20" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-20" value="是否&lt;div&gt;超量&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="H1jCAznNCiDQPqvQXg3_-9">
+          <mxGeometry x="160" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H1jCAznNCiDQPqvQXg3_-9" source="H1jCAznNCiDQPqvQXg3_-22" target="H1jCAznNCiDQPqvQXg3_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-22" value="用户注销" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H1jCAznNCiDQPqvQXg3_-9">
+          <mxGeometry x="270" y="20" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-23" value="删除用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H1jCAznNCiDQPqvQXg3_-9">
+          <mxGeometry x="380" y="20" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1jCAznNCiDQPqvQXg3_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H1jCAznNCiDQPqvQXg3_-2" target="H1jCAznNCiDQPqvQXg3_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
