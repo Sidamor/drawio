@@ -10,8 +10,11 @@
         <mxCell id="nkj0s5-rF8sheBsWoZKw-14" value="看板定义" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-13">
           <mxGeometry x="200" y="30" width="200" height="439" as="geometry" />
         </mxCell>
-        <mxCell id="nkj0s5-rF8sheBsWoZKw-23" value="创建看板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-14">
+        <mxCell id="nkj0s5-rF8sheBsWoZKw-23" value="创建看板" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-14">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nkj0s5-rF8sheBsWoZKw-24" value="保存看板" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-14">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nkj0s5-rF8sheBsWoZKw-15" value="数据配置" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-13">
           <mxGeometry x="400" y="30" width="200" height="439" as="geometry" />
@@ -19,7 +22,7 @@
         <mxCell id="nkj0s5-rF8sheBsWoZKw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nkj0s5-rF8sheBsWoZKw-15" source="nkj0s5-rF8sheBsWoZKw-1" target="nkj0s5-rF8sheBsWoZKw-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nkj0s5-rF8sheBsWoZKw-1" value="选择 SaaS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-15">
+        <mxCell id="nkj0s5-rF8sheBsWoZKw-1" value="选择 SaaS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-15">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nkj0s5-rF8sheBsWoZKw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nkj0s5-rF8sheBsWoZKw-15" source="nkj0s5-rF8sheBsWoZKw-2">
@@ -27,22 +30,31 @@
             <mxPoint x="100" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nkj0s5-rF8sheBsWoZKw-2" value="选择 空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-15">
+        <mxCell id="nkj0s5-rF8sheBsWoZKw-2" value="选择 空间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-15">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nkj0s5-rF8sheBsWoZKw-6" value="配置空间物模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-15">
+        <mxCell id="nkj0s5-rF8sheBsWoZKw-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nkj0s5-rF8sheBsWoZKw-15" source="nkj0s5-rF8sheBsWoZKw-6" target="nkj0s5-rF8sheBsWoZKw-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nkj0s5-rF8sheBsWoZKw-6" value="配置空间物模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-15">
           <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nkj0s5-rF8sheBsWoZKw-25" value="生成看板" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-15">
+          <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nkj0s5-rF8sheBsWoZKw-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;首页看板&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-13">
           <mxGeometry x="5" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nkj0s5-rF8sheBsWoZKw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nkj0s5-rF8sheBsWoZKw-13" source="nkj0s5-rF8sheBsWoZKw-24" target="nkj0s5-rF8sheBsWoZKw-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nkj0s5-rF8sheBsWoZKw-22" value="面板定义" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="81" width="200" height="439" as="geometry" />
         </mxCell>
-        <mxCell id="nkj0s5-rF8sheBsWoZKw-19" value="创建面板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-22">
+        <mxCell id="nkj0s5-rF8sheBsWoZKw-19" value="创建面板" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-22">
           <mxGeometry x="40" y="39" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nkj0s5-rF8sheBsWoZKw-18" value="入面板库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-22">
+        <mxCell id="nkj0s5-rF8sheBsWoZKw-18" value="入面板库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="nkj0s5-rF8sheBsWoZKw-22">
           <mxGeometry x="40" y="328" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
