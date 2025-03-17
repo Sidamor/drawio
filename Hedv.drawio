@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.9.3">
-  <diagram name="第 1 页" id="oIxEW4qrCtQKan5Gbzdn">
-    <mxGraphModel>
+  <diagram name="OTA" id="oIxEW4qrCtQKan5Gbzdn">
+    <mxGraphModel dx="1026" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SWobLKZcGXEL2la-gGtc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SWobLKZcGXEL2la-gGtc-1" target="SWobLKZcGXEL2la-gGtc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-4" value="到达重试时间&lt;div&gt;&amp;amp; 设备在线&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SWobLKZcGXEL2la-gGtc-3">
+          <mxGeometry x="-0.4" y="1" relative="1" as="geometry">
+            <mxPoint x="24" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-1" value="待推送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-18" value="1. 响应超时&lt;div&gt;2. 上报失败&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SWobLKZcGXEL2la-gGtc-2" target="SWobLKZcGXEL2la-gGtc-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SWobLKZcGXEL2la-gGtc-2" target="SWobLKZcGXEL2la-gGtc-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-28" value="上报进度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SWobLKZcGXEL2la-gGtc-27">
+          <mxGeometry x="-0.0667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SWobLKZcGXEL2la-gGtc-2" target="SWobLKZcGXEL2la-gGtc-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-2" value="已推送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SWobLKZcGXEL2la-gGtc-17" target="SWobLKZcGXEL2la-gGtc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-20" value="没达到重试次数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SWobLKZcGXEL2la-gGtc-19">
+          <mxGeometry x="0.0327" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SWobLKZcGXEL2la-gGtc-17" target="SWobLKZcGXEL2la-gGtc-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-25" value="达到&lt;div&gt;重试次数&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SWobLKZcGXEL2la-gGtc-24">
+          <mxGeometry x="-0.275" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-17" value="是否达到&lt;div&gt;重试次数&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-23" value="升级失败" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SWobLKZcGXEL2la-gGtc-26" target="SWobLKZcGXEL2la-gGtc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-30" value="1. 响应超时&lt;div&gt;2. 上报失败&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SWobLKZcGXEL2la-gGtc-29">
+          <mxGeometry x="-0.4455" y="-3" relative="1" as="geometry">
+            <mxPoint x="9" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SWobLKZcGXEL2la-gGtc-26" target="SWobLKZcGXEL2la-gGtc-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-39" value="上报版本吻合" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SWobLKZcGXEL2la-gGtc-38">
+          <mxGeometry x="0.5032" y="-1" relative="1" as="geometry">
+            <mxPoint x="-133" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-26" value="升级中" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWobLKZcGXEL2la-gGtc-33" value="升级成功" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
