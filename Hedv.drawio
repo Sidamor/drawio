@@ -137,8 +137,21 @@
         <mxCell id="iHcXPZpFy5B-gO-HOYv5-8" value="已完成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MdQ-0WaDt5vdcqzB7ZpT-1" value="迁移任务状态图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MdQ-0WaDt5vdcqzB7ZpT-1" value="迁移任务状态图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7njA06_e790VO_hpbGf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="iHcXPZpFy5B-gO-HOYv5-1" target="iHcXPZpFy5B-gO-HOYv5-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="50" />
+              <mxPoint x="260" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P7njA06_e790VO_hpbGf-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;编辑任务&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P7njA06_e790VO_hpbGf-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
