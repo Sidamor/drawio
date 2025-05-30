@@ -561,6 +561,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FP237hYd9sSCEe-WK1jY-50" value="边缘采集器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FP237hYd9sSCEe-WK1jY-21">
+          <mxGeometry x="176" y="20" width="69" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="FP237hYd9sSCEe-WK1jY-22" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="463.3" y="370" width="305.65" height="190" as="geometry" />
         </mxCell>
@@ -580,6 +583,9 @@
           <mxGeometry x="-0.2637" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FP237hYd9sSCEe-WK1jY-51" value="边缘采集器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FP237hYd9sSCEe-WK1jY-22">
+          <mxGeometry x="186.7" y="20" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FP237hYd9sSCEe-WK1jY-28" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cwh_cloud_web_hosting;" vertex="1" parent="1">
           <mxGeometry x="380" y="124.4" width="49.8" height="45.6" as="geometry" />
