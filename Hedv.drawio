@@ -632,6 +632,21 @@
         <mxCell id="FP237hYd9sSCEe-WK1jY-43" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;···&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="403.3" y="450" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FP237hYd9sSCEe-WK1jY-45" value="海德薇" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="179.8" y="297.8" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FP237hYd9sSCEe-WK1jY-46" value="海德薇" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294.9" y="297.8" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FP237hYd9sSCEe-WK1jY-47" value="海德薇" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="408.4" y="297.8" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FP237hYd9sSCEe-WK1jY-48" value="海德薇" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="599.8" y="297.8" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FP237hYd9sSCEe-WK1jY-49" value="总部数据中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="362.45" y="170" width="84.9" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
