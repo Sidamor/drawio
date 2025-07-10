@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0" pages="7">
   <diagram name="OTA" id="oIxEW4qrCtQKan5Gbzdn">
     <mxGraphModel dx="1026" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -427,7 +427,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zUMGqfCyRToYD_Ku6EOc" name="规则引擎">
-    <mxGraphModel dx="1018" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -449,7 +449,7 @@
         <mxCell id="Ppaor7WcdnScOyPhzTLc-2" value="规则列表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xXXZVsvQYpO73TZwURlh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ppaor7WcdnScOyPhzTLc-5" target="xXXZVsvQYpO73TZwURlh-7">
+        <mxCell id="xXXZVsvQYpO73TZwURlh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ppaor7WcdnScOyPhzTLc-5" target="xXXZVsvQYpO73TZwURlh-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ppaor7WcdnScOyPhzTLc-5" value="告警中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -458,7 +458,7 @@
         <mxCell id="Ppaor7WcdnScOyPhzTLc-8" value="Trigger + Condition + Action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xXXZVsvQYpO73TZwURlh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ppaor7WcdnScOyPhzTLc-9" target="xXXZVsvQYpO73TZwURlh-1">
+        <mxCell id="xXXZVsvQYpO73TZwURlh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ppaor7WcdnScOyPhzTLc-9" target="xXXZVsvQYpO73TZwURlh-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ppaor7WcdnScOyPhzTLc-9" value="流式规则" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -473,28 +473,28 @@
         <mxCell id="Ppaor7WcdnScOyPhzTLc-11" value="场景规则" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xXXZVsvQYpO73TZwURlh-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ppaor7WcdnScOyPhzTLc-13" target="xXXZVsvQYpO73TZwURlh-3">
+        <mxCell id="xXXZVsvQYpO73TZwURlh-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ppaor7WcdnScOyPhzTLc-13" target="xXXZVsvQYpO73TZwURlh-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ppaor7WcdnScOyPhzTLc-13" value="一键执行" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xXXZVsvQYpO73TZwURlh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ppaor7WcdnScOyPhzTLc-15" target="xXXZVsvQYpO73TZwURlh-5">
+        <mxCell id="xXXZVsvQYpO73TZwURlh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ppaor7WcdnScOyPhzTLc-15" target="xXXZVsvQYpO73TZwURlh-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ppaor7WcdnScOyPhzTLc-15" value="自动化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xXXZVsvQYpO73TZwURlh-1" value="通知模板（通知对象自行填写）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xXXZVsvQYpO73TZwURlh-1" value="通知模板（通知对象自行填写）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xXXZVsvQYpO73TZwURlh-3" value="通知组+通知模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xXXZVsvQYpO73TZwURlh-3" value="通知组+通知模板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xXXZVsvQYpO73TZwURlh-5" value="通知组+通知模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xXXZVsvQYpO73TZwURlh-5" value="通知组+通知模板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xXXZVsvQYpO73TZwURlh-7" value="通知组（通知内容自行填写）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xXXZVsvQYpO73TZwURlh-7" value="通知组（通知内容自行填写）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
