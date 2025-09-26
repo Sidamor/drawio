@@ -742,13 +742,13 @@
         </mxCell>
         <mxCell id="VOhVEcM55fGANHp1U78_-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="VOhVEcM55fGANHp1U78_-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="850" as="sourcePoint" />
+            <mxPoint x="310" y="750" as="sourcePoint" />
             <mxPoint x="300" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VOhVEcM55fGANHp1U78_-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="519" y="851" as="sourcePoint" />
+            <mxPoint x="520" y="750" as="sourcePoint" />
             <mxPoint x="519.5" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -826,9 +826,6 @@
             <mxPoint x="7" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOhVEcM55fGANHp1U78_-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VOhVEcM55fGANHp1U78_-27" target="VOhVEcM55fGANHp1U78_-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VOhVEcM55fGANHp1U78_-27" value="实例列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -863,9 +860,10 @@
             <mxPoint x="120.0666666666666" y="130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOhVEcM55fGANHp1U78_-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="VOhVEcM55fGANHp1U78_-43">
+        <mxCell id="VOhVEcM55fGANHp1U78_-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="645" as="targetPoint" />
+            <mxPoint x="130" y="548" as="targetPoint" />
+            <mxPoint x="250" y="548" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VOhVEcM55fGANHp1U78_-46" value="资源 id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VOhVEcM55fGANHp1U78_-45">
@@ -873,13 +871,10 @@
             <mxPoint x="-9" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VOhVEcM55fGANHp1U78_-43" value="实例详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VOhVEcM55fGANHp1U78_-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="VOhVEcM55fGANHp1U78_-43">
+        <mxCell id="VOhVEcM55fGANHp1U78_-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="675" as="sourcePoint" />
-            <mxPoint x="180" y="690" as="targetPoint" />
+            <mxPoint x="130" y="578" as="sourcePoint" />
+            <mxPoint x="250" y="578" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VOhVEcM55fGANHp1U78_-48" value="实例状态信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VOhVEcM55fGANHp1U78_-47">
@@ -913,15 +908,15 @@
         </mxCell>
         <mxCell id="VOhVEcM55fGANHp1U78_-64" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="VOhVEcM55fGANHp1U78_-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="729" y="850" as="sourcePoint" />
-            <mxPoint x="729.5" y="100" as="targetPoint" />
+            <mxPoint x="729" y="755" as="sourcePoint" />
+            <mxPoint x="729.5" y="5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VOhVEcM55fGANHp1U78_-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VOhVEcM55fGANHp1U78_-63" target="VOhVEcM55fGANHp1U78_-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VOhVEcM55fGANHp1U78_-63" value="取消订阅&lt;div&gt;更新订阅&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="725" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VOhVEcM55fGANHp1U78_-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VOhVEcM55fGANHp1U78_-65" target="VOhVEcM55fGANHp1U78_-67">
           <mxGeometry relative="1" as="geometry" />
@@ -932,7 +927,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VOhVEcM55fGANHp1U78_-65" value="取消/更新成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="725" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VOhVEcM55fGANHp1U78_-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VOhVEcM55fGANHp1U78_-67" target="VOhVEcM55fGANHp1U78_-70">
           <mxGeometry relative="1" as="geometry" />
@@ -946,16 +941,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VOhVEcM55fGANHp1U78_-67" value="customer id&lt;div&gt;product code&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="725" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VOhVEcM55fGANHp1U78_-71" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="VOhVEcM55fGANHp1U78_-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="850" as="sourcePoint" />
-            <mxPoint x="120" y="100" as="targetPoint" />
+            <mxPoint x="120" y="755" as="sourcePoint" />
+            <mxPoint x="120" y="5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VOhVEcM55fGANHp1U78_-70" value="取消/更新" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="725" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
