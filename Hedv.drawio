@@ -504,22 +504,22 @@
             <mxPoint x="570" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M2pjXylrMj8qdC1D2Fm--5" value="MQTT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M2pjXylrMj8qdC1D2Fm--5" value="MQTT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="70" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M2pjXylrMj8qdC1D2Fm--6" value="Modbus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M2pjXylrMj8qdC1D2Fm--6" value="Modbus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="70" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M2pjXylrMj8qdC1D2Fm--7" value="&amp;nbsp;数据解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M2pjXylrMj8qdC1D2Fm--7" value="&amp;nbsp;数据处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M2pjXylrMj8qdC1D2Fm--8" value="Kafka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M2pjXylrMj8qdC1D2Fm--8" value="Kafka" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="630" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M2pjXylrMj8qdC1D2Fm--9" value="RocketMQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M2pjXylrMj8qdC1D2Fm--9" value="RocketMQ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="630" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M2pjXylrMj8qdC1D2Fm--10" value="DP 点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M2pjXylrMj8qdC1D2Fm--10" value="DP 点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="630" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
